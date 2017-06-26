@@ -1,0 +1,15 @@
+ Volume in drive C is OSDisk
+ Volume Serial Number is DAC9-F5FE
+
+ Directory of C:\My_Learnings\June_2017\B_25_June\Java
+
+26-Jun-17  08:52 PM    <DIR>          .
+26-Jun-17  08:52 PM    <DIR>          ..
+26-Jun-17  07:54 PM               690 B_Hello.class
+25-Jun-17  05:29 PM               158 B_Hello.java
+25-Jun-17  05:02 PM               675 Hello.class
+25-Jun-17  05:02 PM               150 Hello.java
+26-Jun-17  08:46 PM               563 temp.txt
+26-Jun-17  08:52 PM                 0 temp2.txt
+               6 File(s)          2,236 bytes
+               2 Dir(s)  347,149,795,328 bytes free
